@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 mobile_app/.dart_tool/
 mobile_app/build/
+
+# macOS system files
+.DS_Store
